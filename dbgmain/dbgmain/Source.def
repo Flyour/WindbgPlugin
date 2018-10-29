@@ -1,0 +1,9 @@
+LIBRARY
+
+EXPORTS
+help
+read
+
+WinDbgExtensionDllInit
+ExtensionApiVersion
+CheckVersion
